@@ -1,3 +1,5 @@
 # WeWorld Index 2022
-## [Mappa](https://aripiz.github.io/weworldindex/map.html)
-## [Correlazioni](https://aripiz.github.io/weworldindex/corr.html)
+## [World Map](./map.html)
+## [Components Correlations](./corr.html)
+## [Components Radar Chart](./radar.html)
+## [Indicators Score Map](./scores.html)
